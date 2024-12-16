@@ -32,6 +32,8 @@ I am a Software Test Engineer from Turkey.
   <img  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
   <img  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angular.js"/>
   <img  width="26px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue"/>
+  <img  width="26px" src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio"/>
+  <img  width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode"/>
   <img  width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"/>
   <img  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/>
   <img  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
