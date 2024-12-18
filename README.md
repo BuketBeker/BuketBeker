@@ -40,15 +40,12 @@ I am a Software Test Engineer from Turkey.
   <img  width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"/>
   <img  width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker"/>
   <img  width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/> 
-  <img  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
   <img  width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
   <img  width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub"/>
   <img  width="26px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab"/>
   <img  width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"/>
   <img  width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vsCode"/>
   <img  width="26px" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetBrains"/>
-  <img  width="26px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="androidstudio"/>
-  <img  width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql"/>
   <img  width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/>
   <img  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/>
   <img  width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
